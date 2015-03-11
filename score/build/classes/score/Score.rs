@@ -1,0 +1,12 @@
+score.chart
+score.piechart
+score.fenxi$1
+score.student
+score.Score
+score.analyse$2
+score.analyse
+score.analyse$1
+score.barchart
+score.total
+score.classes
+score.fenxi
